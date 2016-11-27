@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT", "IT\IT.csproj", "{583B93FF-15CE-4FCC-B2C2-6C4FFF55EF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITUnitTest", "ITUnitTest\ITUnitTest.csproj", "{FB11B581-EE09-4CF7-BC91-4E29074B0D56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{583B93FF-15CE-4FCC-B2C2-6C4FFF55EF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{583B93FF-15CE-4FCC-B2C2-6C4FFF55EF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{583B93FF-15CE-4FCC-B2C2-6C4FFF55EF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB11B581-EE09-4CF7-BC91-4E29074B0D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB11B581-EE09-4CF7-BC91-4E29074B0D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB11B581-EE09-4CF7-BC91-4E29074B0D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB11B581-EE09-4CF7-BC91-4E29074B0D56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
